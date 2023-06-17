@@ -25,6 +25,3 @@ c = 0
 for i in range(20):
     c+=7
     setPillar(x+c, y, z, 9)
-
-# Добавьте сюда цикл for
-# Вызовите здесь функцию setPillar()
